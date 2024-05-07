@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#box {
+
+    height: 800px;
+    width: 1950px;
+    background-color:saddlebrown;
+    border-style: solid;
+    border-width: 50px;
+    border:2px solid brown;
+    /* margin: 100px auto 50px; */
+}
+#inner_box_2{
+  width: 50%;
+  background-color: antiquewhite; 
+  height: 100%; 
+  margin: 0 auto;
+  background-image: url( ../16-47-17-120514550_2661111347486529_8163845652400981407_n.jpg);
+}
+img{
+    height: 100%;
+    width: 100%;
+}

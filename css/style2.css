@@ -1,0 +1,40 @@
+body{
+    background-color: plum;
+}
+h1{
+    color: purple;
+     font-size: 150px;
+      display: flex;
+      justify-content: center;
+       text-align:left;
+       font-style: oblique;
+       margin-top: -20px;
+       margin-left: 10px;   
+}
+marquee{
+    color: rebeccapurple;
+    font-size: 50px;
+    display: flex;
+     justify-content: center;
+     font-style: italic;
+      margin-left: 40px;
+       width: 600px;
+        margin-top: -100px;
+        border-bottom: 2px solid rebeccapurple;
+}
+h2{
+    color:rebeccapurple;
+    font-style:italic;
+    background-color: pink
+}
+img{
+    height: 850px;
+     width: 2050px;
+     margin-top:-20px ;
+}
+.wrd10{
+    color: rebeccapurple;
+    font-size: 30px;
+    background-color: pink 
+}
+
