@@ -1,9 +1,9 @@
 body {
-    background-color: plum;
+    background-color:burlywood;
 }
 
 h1 {
-    color: purple;
+    color:brown;
     font-size: 150px;
     display: flex;
     justify-content: center;
